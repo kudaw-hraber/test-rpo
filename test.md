@@ -14,7 +14,7 @@ Splunk HEC (192.168.0.15:8088)
     ↓
 Splunk Index (main)
 ```
-
+asñdijasoidjasoidjasoidjawsoid
 ## Componentes
 
 ### 1. Splunk HTTP Event Collector
