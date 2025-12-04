@@ -291,3 +291,6 @@ index=_internal sourcetype=splunkd component=HttpInputDataHandler
 **Última actualización:** 2024-12-04  
 **Autor:** Hugo Raber  
 **Ambiente:** Testing (HTTP) → Producción (HTTPS)
+
+
+asoidjhasoidjasiodjasiodj
